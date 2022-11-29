@@ -5,6 +5,7 @@
     --bg-darkblue: #06283D;
     --bg-bluee: #0D324D;
     --bg-lightblue: #7F5A83;
+    --bg-purple: #6a5acd;
 }
 
 *{
@@ -65,13 +66,13 @@ b, ul li{
     width: 100%;
 }
 
-.step5-heading, .step5-desc,.step4-heading, .step4-desc, .step3-heading, .step3-desc, .intro-heading, .intro-body, .steps-heading, .steps-lists, .purpose-heading, .purpose-desc, .step1-body, .step1-heading, .step2-desc, .step2-heading{margin-bottom: 15px;}
+.step6-heading, .step6-desc, .step5-heading, .step5-desc, .step4-heading, .step4-desc, .step3-heading, .step3-desc, .intro-heading, .intro-body, .steps-heading, .steps-lists, .purpose-heading, .purpose-desc, .step1-body, .step1-heading, .step2-desc, .step2-heading{margin-bottom: 15px;}
 
-.step5-desc, .step4-desc, .step3-desc, .step2-desc, .steps-heading, .intro-heading, .purpose-desc, .intro-body, .steps-lists, .purpose-heading, .step1-body{font-size: larger;}
+.step6-desc, .step5-desc, .step4-desc, .step3-desc, .step2-desc, .steps-heading, .intro-heading, .purpose-desc, .intro-body, .steps-lists, .purpose-heading, .step1-body{font-size: larger;}
 
 .steps-lists{margin-left: 20px;}
 
-.step1-pics, .step2-pics, .step3-pics, .step4-pics, .step5-pics{
+.step1-pics, .step2-pics, .step3-pics, .step4-pics, .step5-pics, .step6-pics{
     margin-top: 40px;
     display: flex;
     align-items: center;
@@ -81,7 +82,7 @@ b, ul li{
 .step1-pics img{
     width: 450px;
 }
-.step2-pics img, .step3-pics img, .step4-pics img, .step5-pics img{
+.step2-pics img, .step3-pics img, .step4-pics img, .step5-pics img, .step6-pics img{
     width: 900px;
 }
 
